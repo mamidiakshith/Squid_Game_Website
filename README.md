@@ -22,6 +22,7 @@ A fully responsive **frontend web project** inspired by Netflix's *Squid Game* s
 - 🔧 JSON Server (for mock API)
 
 ---
+## Website Screenshots Uploaded in the screenshots folder
 
 ## 🛠️ How to Run Locally
 
@@ -33,4 +34,3 @@ cd Squid_Game_Website
 npm install
 npm run dev
 npx json-server --watch db.json --port 3000
-
