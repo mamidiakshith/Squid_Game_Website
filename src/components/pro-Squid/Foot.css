@@ -1,0 +1,9 @@
+.fod{
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 0px 0px 9px white;
+    color: white;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}

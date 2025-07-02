@@ -1,0 +1,41 @@
+.ah2{
+    color: white;
+    position: relative;
+    left: 90px;
+    padding: 10px;
+        bottom: 60px;
+        font-weight: bold;
+        text-decoration: underline;
+
+}
+.ul1{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    display: block;
+    margin: auto;
+    position: relative;
+    left: 90px;
+    bottom: 60px;
+}
+.ul2{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    display: block;
+    margin: auto;
+    position: relative;
+    left: 90px;
+        bottom: 60px;
+
+}
+h2:hover{
+    color: red;
+}
+h1{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.ah1{
+    color: red;
+    text-shadow: 1px 0px 1px white;
+}
