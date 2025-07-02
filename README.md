@@ -1,8 +1,36 @@
-# React + Vite
+# 🦑 Squid Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive **frontend web project** inspired by Netflix's *Squid Game* series. Built using **React.js**, this project replicates a themed experience for fans and learners alike.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Features
+
+- 🎬 Squid Game-themed user interface
+- 📦 Modular React components
+- 📄 CSS-based responsive layout
+- 🧑‍🎤 Players page dynamically displays cast from a local JSON server
+- 📝 Clean, responsive and themed design
+
+---
+
+## 🚀 Tech Stack
+
+- ⚛️ React.js
+- 🎨 CSS3
+- ⚡ Vite (React Template)
+- 🔧 JSON Server (for mock API)
+
+---
+
+## 🛠️ How to Run Locally
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/mamidiakshith/Squid_Game_Website.git
+cd Squid_Game_Website
+npm install
+npm run dev
+npx json-server --watch db.json --port 3000
+
